@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I love adding peppermint to my coffee 😆
 
-### Let's exchange follows and learn more with each others project 🤗
+### 🤗 Nice to Meet You 🤗
