@@ -1,10 +1,13 @@
 ### Hi there 👋🏻
 
+# I'm Nathalia
+
 <!--
 **naathcs/naathcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+- 🤓 My nickname is Nath
 - 🔭 I’m currently working as an Au Pair
 - 🌱 I’m currently learning Web Development
 - 🤔 I’m looking for help with not being so perfectionist and actually enjoy the process.
@@ -13,3 +16,5 @@ Here are some ideas to get you started:
   - 📸 Instagram: @naath.cs
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I love adding peppermint to my coffee 😆
+
+## Let's exchange follows and learn more with each others project 🤗
