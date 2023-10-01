@@ -10,6 +10,8 @@
 
 - 🚀 I'm looking forward to be consistent with the challenges and participate in projects to improve mt abilities and create networking as well.
 
+- 📚 I speak Portuguese (Brazilian) and English (American). I am lloking forward to learn French in the near future.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/naathcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naathcs" height="30" width="40" /></a>
