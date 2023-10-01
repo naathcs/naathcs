@@ -10,7 +10,7 @@
 
 - 🚀 I'm looking forward to be consistent with the challenges and participate in projects to improve mt abilities and create networking as well.
 
-- 📚 I speak Portuguese (Brazilian) and English (American). I am lloking forward to learn French in the near future.
+- 📚 I speak Portuguese (Brazilian) and English (American). I am looking forward to learn French in the near future.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
