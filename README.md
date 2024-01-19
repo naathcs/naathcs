@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathalia</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate developer from Brazil</h3>
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:4800/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="girl coding">
 
 - 🔭 I’m currently working on **Frontend Mentor challenges**
