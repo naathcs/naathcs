@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Javascript**
 
+- 📚 I am currently sutyding **Digital Business Management** at the Toronto School of Management
+
 - 🤝 I’m looking for help with **improving my skills and learn more things**
 
 - 🚀 I'm looking forward to be consistent with the challenges and participate in projects to improve mt abilities and create networking as well.
