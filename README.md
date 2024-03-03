@@ -1,4 +1,4 @@
-<h1 align="center">HMy name is Nathalia</h1> 
+<h1 align="center">My name is Nathalia</h1> 
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:4800/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="girl coding">
 
 - 🔭 I am back to practice my skills with **Frontend Mentor Challenges**
