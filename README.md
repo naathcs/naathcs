@@ -1,18 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nathalia</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h1 align="center">HMy name is Nathalia</h1> 
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:4800/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="girl coding">
 
-- 🔭 I’m currently working on **Frontend Mentor challenges**
-
-- 🌱 I’m currently learning **Javascript**
-
-- 📚 I am currently sutyding **Digital Business Management** at the Toronto School of Management
-
-- 🤝 I’m looking for help with **improving my skills and learn more things**
-
-- 🚀 I'm looking forward to be consistent with the challenges and participate in projects to improve mt abilities and create networking as well.
-
-- 📚 I speak Portuguese (Brazilian) and English (American). I am looking forward to learn French in the near future.
+- 🔭 I am back to practice my skills with **Frontend Mentor Challenges**
+- 🌱 I am practing **HTML & CSS** and learning **Javascript**
+- 👩🏻‍💻 I am studying **Digital Business Management** at the Toronto School of Management in Canada.
+- 🤝 I’m looking for help **improving my skills** and finding a job to learn new skills and develop my already acquired ones.
+- 🚀 I'm looking forward to be consistent with my studies and participate in projects to improve my abilities, create a solid network with other students and mentors around the workd.
+- 📚 I am a native Portuguese speaker from Brazil and am fluent in English. I am looking forward to learn French and ASL.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
