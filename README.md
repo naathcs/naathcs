@@ -1,23 +1,30 @@
-# Hello, I'm Nathalia  
+# 👋 Hi, I’m Nathalia  
 
-Welcome to my GitHub profile!  
-I recently found a passion for **computational neuroscience, bioinformatics**, and software development in those fields.  
-Right now, I’m focused on strengthening my skills in **Java, Python, and data science tools** to create software that helps researchers explore the brain and biology.  
-
----
-
-### 🔭 Current Focus
-- Learning **Java** and building hands-on projects  
-- Exploring **Python** for data analysis and neuroscience applications  
-- Improving my **math and statistics foundations**  
-- Preparing for a future career in **neurotechnology & research software development**  
+I’m on a journey to rebuild my foundations in **math, statistics, programming**, and learn about **neuroscience** to prepare for a future career in **computational neuroscience, and neurotechnology**. 
+This GitHub will track my progress through hands-on projects, study notes, and experiments as I learn.  
 
 ---
 
-### 🌱 Skills & Tools
-- **Languages**: Java, Python (in progress), SQL  
-- **Data Tools**: Power BI, MATLAB (exploring)  
-- **Other**: Git/GitHub, basic web development   
+### 📚 What I’m Learning Now
+- **Math & Statistics**: Strengthening fundamentals for data science and research  
+- **Python**: Data analysis, scientific libraries, and project-based learning  
+- **Data Tools**: Power BI and exploring MATLAB for research applications  
+- **Neuroscience Basics**: Connecting coding with brain and biology studies  
+
+---
+
+### 🛠️ Skills in Progress
+- **Languages**: Python, Java, SQL  
+- **Libraries**: NumPy, Pandas, Matplotlib (learning)  
+- **Tools**: Git/GitHub, MATLAB (exploring)  
+- **Other**: Basic web development, project documentation  
+
+---
+
+### 🎯 Goals
+- Build projects that combine **programming with neuroscience concepts**  
+- Share study notes and code to track my learning journey
+- Develop and improve softwares to help neuroscientists in their research
 
 ---
 
@@ -25,4 +32,5 @@ Right now, I’m focused on strengthening my skills in **Java, Python, and data 
 - 💼 [LinkedIn](https://www.linkedin.com/in/naathcs/)  
 
 ---
-*"Building tools to understand the brain, one project at a time."*
+
+✨ *“Learning step by step, turning curiosity into code.”*  
