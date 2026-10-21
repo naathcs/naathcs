@@ -12,20 +12,10 @@
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=naathcs.naathcs&"  />
-</div>
-
-###
-
 <h1 data-importer="text" align="center">Hi there 👋</h1>
 
-###
-
-<div data-importer="music" align="center">
-<a href="https://open.spotify.com/user/hogwarts_games">
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=hogwarts_games&amp;theme=tokyonight&amp;width=350&amp;radius=15&amp;time=0&amp;progress=0&amp;footer=wave" alt="Spotify recently played" width="350" />
-</a>
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=naathcs.naathcs&"  />
 </div>
 
 ###
@@ -113,6 +103,14 @@
   </a>
   <a href="https://tryhackme.com/p/naathcs?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=4bc08fb3d255&utm_source=copy&sharerId=612426f799780a00509015de" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+  </a>
+</div>
+
+###
+
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/hogwarts_games">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=hogwarts_games&amp;theme=tokyonight&amp;width=350&amp;radius=15&amp;time=0&amp;progress=0&amp;footer=wave" alt="Spotify recently played" width="350" />
   </a>
 </div>
 
