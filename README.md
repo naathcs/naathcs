@@ -6,17 +6,17 @@
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanV0MGg5bmZneDB5cjQ3NzlyaXE3eHNnMjU5dWpyaDYwNXg0d3R3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SRk34eQg51mlvazIjC/giphy.gif"  />
+<div style="display: flex; align-items: center; gap: 20px;">
+<div>
+    <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanV0MGg5bmZneDB5cjQ3NzlyaXE3eHNnMjU5dWpyaDYwNXg0d3R3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SRk34eQg51mlvazIjC/giphy.gif" />
 </div>
 
-###
-
-<h1 data-importer="text" align="center">Hi there 👋</h1>
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=naathcs.naathcs&"  />
+<div>
+  <h1>Hi there 👋</h1>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=naathcs.naathcs" />
 </div>
+</div>
+
 
 ###
 
