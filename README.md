@@ -25,6 +25,7 @@
 <p data-importer="text" align="left">I'm Nathalia from Brazil. You can call me Nath. <br>
 <br>
 - 📚 I'm currently learning Python and its applications on data analysis and artificial intelligence.<br>
+- 📙 I also am planning to improve my skills in SQL. <br>
 - 📖 I want to learn to implement this knowledge in data security and provide safety for users withing and outside the system that this knowledge is applied.<br>
 - ⚡️ In my free time I enjoy reading, watching show and playing online games. I also enjoy exercising, going on walks and explores new places within the city and around the world.</p>
 
