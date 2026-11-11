@@ -97,13 +97,12 @@
 
 ###
 
-<div data-importer="music" align="center">
+<!-- <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/hogwarts_games">
     <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=hogwarts_games&amp;theme=tokyonight&amp;width=350&amp;radius=15&amp;time=0&amp;progress=0&amp;footer=wave" alt="Spotify recently played" width="350" />
   </a>
-</div>
+</div> -->
 
-###
 
 <br clear="both">
 
