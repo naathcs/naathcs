@@ -87,9 +87,12 @@
   <a href="https://www.twitch.tv/naathcs" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   </a>
-  <a href="https://tryhackme.com/p/naathcs?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=4bc08fb3d255&utm_source=copy&sharerId=612426f799780a00509015de" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+   <a href="mailto:naath.cs@outlook.com"" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
   </a>
+  <!-- <a href="https://tryhackme.com/p/naathcs?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=4bc08fb3d255&utm_source=copy&sharerId=612426f799780a00509015de" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+  </a> -->
 </div>
 
 ###
